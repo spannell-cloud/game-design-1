@@ -14,12 +14,12 @@
     "orientation": "landscape",
     "packageName": "com.example.gamename",
     "pixelsRounding": false,
-    "projectUuid": "ce8800ad-f963-4ccb-8b1e-71fd6139afef",
+    "projectUuid": "801e7ba7-f20d-4eea-a68a-802816e49870",
     "scaleMode": "linear",
     "sizeOnStartupMode": "",
     "templateSlug": "starting-top-down",
     "version": "1.0.0",
-    "name": "try 2",
+    "name": "Tall Power - Copy",
     "description": "",
     "author": "",
     "windowWidth": 1280,
@@ -95,7 +95,7 @@
   "resources": {
     "resources": [
       {
-        "file": "assets/StartingPlayer2.png",
+        "file": "https://resources.gdevelop-app.com/examples/starting-top-down/assets/StartingPlayer.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\StartingPlayer.png",
@@ -103,7 +103,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/StartingGroundTilemap2.png",
+        "file": "https://resources.gdevelop-app.com/examples/starting-top-down/assets/StartingGroundTilemap.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\StartingGroundTilemap.png",
@@ -111,7 +111,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/StartingWall2.png",
+        "file": "https://resources.gdevelop-app.com/examples/starting-top-down/assets/StartingWall.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\StartingWall.png",
@@ -119,7 +119,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/StartingObstacle2.png",
+        "file": "https://resources.gdevelop-app.com/examples/starting-top-down/assets/StartingObstacle.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\StartingObstacle.png",
@@ -127,7 +127,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Flat dark joystick border2.png",
+        "file": "https://resources.gdevelop-app.com/examples/starting-top-down/assets/Flat dark joystick border.png",
         "kind": "image",
         "metadata": "",
         "name": "Flat dark joystick border.png",
@@ -139,7 +139,7 @@
         }
       },
       {
-        "file": "assets/Flat dark joystick thumb2.png",
+        "file": "https://resources.gdevelop-app.com/examples/starting-top-down/assets/Flat dark joystick thumb.png",
         "kind": "image",
         "metadata": "",
         "name": "Flat dark joystick thumb.png",
